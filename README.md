@@ -63,17 +63,7 @@ A modern platform for discovering and exchanging skills with others. Connect wit
    # or use: yarn install, pnpm install, bun install
    ```
 
-3. **Set up environment variables**
-   Create a `.env.local` file in the root directory with:
-   ```
-   MONGODB_URI=your_mongodb_connection_string
-   NEXTAUTH_SECRET=your_nextauth_secret
-   NEXTAUTH_URL=http://localhost:3000
-   UPSTASH_REDIS_REST_URL=your_upstash_redis_url
-   UPSTASH_REDIS_REST_TOKEN=your_upstash_token
-   ```
-
-4. **Run the development server**
+3. **Run the development server**
    ```bash
    npm run dev
    ```
