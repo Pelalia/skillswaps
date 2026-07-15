@@ -1,0 +1,79 @@
+{
+  "nav": {
+    "explore": "Explore",
+    "dashboard": "Dashboard",
+    "requests": "Requests",
+    "login": "Login",
+    "logout": "Logout",
+    "getStarted": "Get Started"
+  },
+  "hero": {
+    "title": "Trade what you",
+    "titleBold": "Know!",
+    "titleSpan": "Learn What you",
+    "titleSpanBold": "Don't",
+    "subtitle": "SkillSwap is a peer-to-peer marketplace for skills. No money, no credits — just one-to-one exchanges between people who want to grow.",
+    "cta": "Create my profile",
+    "browse": "Browse swappers",
+    "meetTitle": "Meet a few swappers",
+    "meetSubtitle": "Pick someone, send a swap request, start learning.",
+    "seeAll": "See all →",
+    "realPeople": "Real people",
+    "realPeopleText": "Browse profiles of teachers from around the world.",
+    "fairExchange": "Fair exchange",
+    "fairExchangeText": "You teach one skill, you learn another. That's it.",
+    "easyStart": "Easy to start",
+    "easyStartText": "Sign up, list your skills, find your first match in minutes.",
+    "dashboard": "My dashboard"
+  },
+  "dashboard": {
+    "welcome": "Welcome back",
+    "hi": "Hi",
+    "requests": "Requests",
+    "editProfile": "Edit profile",
+    "canTeach": "I can teach",
+    "wantLearn": "I want to learn",
+    "noTeach": "No skills yet — add some to get matches.",
+    "noLearn": "Add what you'd like to learn next.",
+    "addBio": "Add a bio to introduce yourself.",
+    "location": "Location",
+    "locationPlaceholder": "City, Country",
+    "bio": "Bio",
+    "bioPlaceholder": "Tell people who you are.",
+    "save": "Save",
+    "cancel": "Cancel"
+  },
+  "explore": {
+    "title": "Explore",
+    "subtitle": "Find someone to swap skills with.",
+    "search": "Search by skill (React, Figma...)",
+    "noResults": "No results found."
+  },
+  "profile": {
+    "back": "Back to explore",
+    "teaches": "Teaches",
+    "learns": "Wants to learn",
+    "nothing": "Nothing yet",
+    "sendRequest": "Send swap request",
+    "swap": "Swap with",
+    "offer": "I'll teach",
+    "want": "I want to learn",
+    "message": "Message",
+    "offerPlaceholder": "Pick a skill you can teach!",
+    "wantPlaceholder": "Pick something they teach",
+    "messagePlaceholder": "Hi, I'd love to swap!",
+    "addSkillsFirst": "Add skills on your profile first!",
+    "send": "Send request",
+    "description": "Pick what you offer, what you want and add a friendly note."
+  },
+  "requests": {
+  "title": "Swap Requests",
+  "subtitle": "Manage your incoming and outgoing requests",
+  "incoming": "Incoming",
+  "sent": "Sent",
+  "accept": "Accept",
+  "decline": "Decline",
+  "noIncoming": "No incoming requests yet.",
+  "noOutgoing": "No outgoing requests yet."
+}
+}

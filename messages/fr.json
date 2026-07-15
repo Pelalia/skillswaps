@@ -1,0 +1,80 @@
+
+{
+  "nav": {
+    "explore": "Explorez",
+    "dashboard": "Dashboard",
+    "requests": "Requêtes",
+    "login": "Connexion",
+    "logout": "Déconnexion",
+    "getStarted": "Commencer"
+  },
+  "hero": {
+    "title": "Échangez ce que vous",
+    "titleBold": "Savez !",
+    "titleSpan": "Contre",
+    "titleSpanBold": "Ce que vous voulez apprendre !",
+    "subtitle": "SkillSwap est une marketplace peer-to-peer de compétences. Pas d'argent, pas de crédits — juste des échanges entre personnes qui veulent progresser.",
+    "cta": "Créer mon profil",
+    "browse": "Parcourir les swappers",
+    "meetTitle": "Rencontrez quelques swappers",
+    "meetSubtitle": "Choisissez quelqu'un, envoyez une demande, commencez à apprendre.",
+    "seeAll": "Voir tout →",
+    "realPeople": "De vraies personnes",
+    "realPeopleText": "Parcourez les profils d'enseignants du monde entier.",
+    "fairExchange": "Échange équitable",
+    "fairExchangeText": "Vous enseignez une compétence, vous en apprenez une autre. C'est tout.",
+    "easyStart": "Facile à démarrer",
+    "easyStartText": "Inscrivez-vous, listez vos compétences, trouvez votre premier match en minutes.",
+    "dashboard": "Dashboard"
+  },
+  "dashboard": {
+    "welcome": "Bon retour",
+    "hi": "Salut",
+    "requests": "Requêtes",
+    "editProfile": "Modifier le profil",
+    "canTeach": "Je peux enseigner",
+    "wantLearn": "Je veux apprendre",
+    "noTeach": "Pas encore de compétences — ajoutez-en pour obtenir des correspondances.",
+    "noLearn": "Ajoutez ce que vous voulez apprendre.",
+    "addBio": "Ajoutez une bio pour vous présenter.",
+    "location": "Localisation",
+    "locationPlaceholder": "Ville, Pays",
+    "bio": "Bio",
+    "bioPlaceholder": "Dites aux gens qui vous êtes.",
+    "save": "Sauvegarder",
+    "cancel": "Annuler"
+  },
+  "explore": {
+    "title": "Explorer",
+    "subtitle": "Trouvez quelqu'un avec qui échanger des compétences.",
+    "search": "Rechercher par compétence (React, Figma...)",
+    "noResults": "Aucun résultat trouvé."
+  },
+  "profile": {
+    "back": "Retour à explorer",
+    "teaches": "Enseigne",
+    "learns": "Veut apprendre",
+    "nothing": "Rien encore",
+    "sendRequest": "Envoyer une demande",
+    "swap": "Échanger avec",
+    "offer": "Je vais enseigner",
+    "want": "Je veux apprendre",
+    "message": "Message",
+    "offerPlaceholder": "Choisissez une compétence à enseigner!",
+    "wantPlaceholder": "Choisissez quelque chose qu'ils enseignent",
+    "messagePlaceholder": "Bonjour, j'aimerais échanger!",
+    "addSkillsFirst": "Ajoutez des compétences à votre profil d'abord!",
+    "send": "Envoyer la demande",
+    "description": "Choisissez ce que vous offrez, ce que vous voulez et ajoutez une note."
+  },
+  "requests": {
+    "title": "Demandes d'échange",
+    "subtitle": "Gérez vos demandes entrantes et sortantes",
+    "incoming": "Reçues",
+    "sent": "Envoyées",
+    "accept": "Accepter",
+    "decline": "Décliner",
+    "noIncoming": "Aucune demande reçue pour l'instant.",
+    "noOutgoing": "Aucune demande envoyée pour l'instant."
+  }
+}
